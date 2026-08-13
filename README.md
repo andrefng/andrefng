@@ -2,8 +2,14 @@
 
 **`Business Intelligence Analyst`**
 
-Sou graduado em Ciências Contábeis e possuo MBA em Business Intelligence. Trabalho com análise de dados no segmento de comércio exterior, contribuindo para decisões informadas e eficazes. 
-Recentemente, iniciei o curso Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, buscando ampliar minhas habilidades técnicas e me especializar em soluções orientadas por dados.
+Sou graduado em Ciências Contábeis, com MBA em Business Intelligence e experiência na área de análise de dados aplicada ao comércio exterior, utilizando dados para apoiar decisões estratégicas e gerar insights para o negócio.
+
+Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
+
+Atualmente, estou direcionando meus estudos para Inteligência Artificial, com o objetivo de desenvolver soluções cada vez mais inteligentes e orientadas por dados.
+
+**Áreas de interesse:** Data Analytics • Data Science • Big Data • Business Intelligence • Inteligência Artificial
+
 
 ### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
 
