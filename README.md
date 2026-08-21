@@ -13,8 +13,8 @@ Atualmente, estou direcionando meus estudos para Análise Preditiva com algoritm
 
 ### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
 
-<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/andrefng/andrefng/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
-<img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/andrefng/andrefng/assets/143359685/369b9f31-a725-4d37-ac02-9fed31125851" />
+<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
+<img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/369b9f31-a725-4d37-ac02-9fed31125851" />
 <img align="left" alt="SQL Server" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/5c77ae1f-f827-43fc-98e1-7569ce55a088" />
 <img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/cc8de0ac-1934-408c-a2bd-8db4178f929a" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/2c1225c5-f911-4298-96cc-72158cf70294" />
