@@ -6,7 +6,7 @@ Sou graduado em Ciências Contábeis, com MBA em Business Intelligence e experi�
 
 Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
 
-Atualmente, estou direcionando meus estudos para Inteligência Artificial, com o objetivo de desenvolver soluções cada vez mais inteligentes e orientadas por dados.
+Atualmente, estou direcionando meus estudos para Annálise Preditiva com Machine Learning, com o objetivo de desenvolver soluções cada vez mais inteligentes e orientadas por dados.
 
 **Áreas de interesse:** Data Analytics • Data Science • Big Data • Business Intelligence • Inteligência Artificial
 
