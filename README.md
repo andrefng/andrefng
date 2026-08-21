@@ -6,9 +6,9 @@ Sou graduado em Ciências Contábeis, com MBA em Business Intelligence e experi�
 
 Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
 
-Atualmente, estou direcionando meus estudos para Análise Preditiva com algoritmos de Machine Learning, com o objetivo de desenvolver soluções cada vez mais inteligentes e orientadas por dados.
+Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Preditiva (SENAI), focando na implementação de algoritmos de Machine Learning (supervisionados e não supervisionados) para construir soluções preditivas e inteligentes orientadas por dados.
 
-**Áreas de interesse:** Data Analytics • Data Science • Big Data • Business Intelligence • Inteligência Artificial • Amachine Learning 
+**Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA 
 
 
 ### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
