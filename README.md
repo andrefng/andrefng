@@ -8,7 +8,7 @@ Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universi
 
 Atualmente, estou direcionando meus estudos para Análise Preditiva com algoritmos de Machine Learning, com o objetivo de desenvolver soluções cada vez mais inteligentes e orientadas por dados.
 
-**Áreas de interesse:** Data Analytics • Data Science • Big Data • Business Intelligence • Inteligência Artificial
+**Áreas de interesse:** Data Analytics • Data Science • Big Data • Business Intelligence • Inteligência Artificial • Amachine Learning 
 
 
 ### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
