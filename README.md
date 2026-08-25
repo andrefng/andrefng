@@ -32,5 +32,4 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 <img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
 
 
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&theme=github-compact&hide_border=true&v=1)](https://github.com/andrefng)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)](https://github.com/andrefng)
