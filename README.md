@@ -34,13 +34,3 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&theme=github-compact&hide_border=true&v=1)](https://github.com/andrefng)
-
-
-
-
-
-
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-
-
-**AndreNascimentoDS/AndreNascimentoDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
