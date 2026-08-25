@@ -32,23 +32,9 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 <img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&bg\_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=andrefng\&bg_color=0d1117\&color=0789da\&line=0789da\&point=0789da\&area=true\&hide_border=true))
+![Gráfico de atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)
 
 
-<!--
-
-## Incluir imagens:
-<img align="left" alt="Tools" width="30px" style="padding-right:10px;" src="" />
-
-
-
-
-## Incluir bloco de informações
-<div align="left">  
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AndreNascimentoDS&show_icons=true&count_private=true&hide_border=true&title_color=0789DA&icon_color=0789DA&text_color=c9d1d9&bg_color=0d1117" alt="André Nascimento github stats" /> 
-  
-</div>
 
 
 
