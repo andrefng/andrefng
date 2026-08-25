@@ -11,7 +11,7 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 **Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA 
 
 
-### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/andrefng/andrefng/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
+### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
 
 
 <img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
@@ -32,9 +32,7 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 <img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
 
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&bg_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide_border=true)
-
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrefng&bg\_color=0d1117&color=0789da&line=0789da&point=0789da&area=true&hide\_border=true](https://github-readme-activity-graph.vercel.app/graph?username=andrefng\&bg_color=0d1117\&color=0789da\&line=0789da\&point=0789da\&area=true\&hide_border=true))
 
 
 <!--
