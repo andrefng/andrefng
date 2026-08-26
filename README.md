@@ -11,7 +11,7 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 **Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA 
 
 
-## Linguagens e Ferramentas
+### Linguagens e Ferramentas
 
 <img align="left" alt="Excel" width="26px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 <img align="left" alt="Power BI" width="24px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
@@ -27,14 +27,14 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 <br>
 
 
-## Contribuições
+### Contribuições
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="490" />
   &nbsp;&nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrefng&theme=holi&utcOffset=0" width="240" />
 </div>
 
-## Contato
+### Contato
 <div align="left">
 <a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
 </div>
