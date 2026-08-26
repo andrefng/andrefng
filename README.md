@@ -26,13 +26,11 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 
 
 ### Contribuições
-
-| Profile Details | Productive Time |
-| :-: | :-: |
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrefng&theme=holi&utcOffset=0) |
-
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="470" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrefng&theme=holi&utcOffset=0" width="240" />
 </div>
-
 
 ### Contato
 <div align="left">
