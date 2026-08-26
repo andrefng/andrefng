@@ -30,8 +30,9 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 
 ### Contato
 
+
 <div align="left">
-<a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a><a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a><a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
+<a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
 </div>
 
 
