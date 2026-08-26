@@ -6,22 +6,24 @@ Sou graduado em Ciências Contábeis, com MBA em Business Intelligence e experi�
 
 Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
 
-Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Preditiva (SENAI), focando na implementação de algoritmos de Machine Learning (supervisionados e não supervisionados) para construir soluções preditivas e inteligentes orientadas por dados.
+Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva (SCTEC), focando na implementação de algoritmos de Machine Learning (supervisionados e não supervisionados) para construir soluções preditivas e inteligentes orientadas por dados.
 
 **Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA 
 
 
 ### Linguagens e Ferramentas
-<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
-<img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/369b9f31-a725-4d37-ac02-9fed31125851" />
-<img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/cc8de0ac-1934-408c-a2bd-8db4178f929a" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/2c1225c5-f911-4298-96cc-72158cf70294" />
-<img align="left" alt="Python" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/4fc58515-d499-42e2-aa97-22f0c84a9546" />
-<img align="left" alt="Pandas" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/101e22e3-994a-4ce1-8626-fa9489d689e1" />
-<img align="left" alt="Numpy" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/7987403e-face-4f05-913e-5708bdf3c7b9" />
-<img align="left" alt="Matplotlib" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/8805d578-85e9-415a-ab4d-074bbd9c6315" />
-<img align="left" alt="VS Code" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/ab2a0163-19a7-474c-81bb-e4e8a1f62226" />
-<img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
+
+<img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
+<img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
+<img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="Python" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Pandas" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align="left" alt="NumPy" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="Matplotlib" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+<img align="left" alt="VS Code" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 <br>
 
 
