@@ -11,9 +11,7 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 **Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA 
 
 
-### <img align="left" alt="Tools" width="28px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/1d8fcebc-79fc-406f-beaf-952e96c8cd95" />Linguagens e Ferramentas
-
-
+### Linguagens e Ferramentas
 <img align="left" alt="Excel" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/15136543-fc6b-4d01-9488-92069d7c09a3"/>
 <img align="left" alt="Power BI" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/369b9f31-a725-4d37-ac02-9fed31125851" />
 <img align="left" alt="Postgre" width="30px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/cc8de0ac-1934-408c-a2bd-8db4178f929a" />
@@ -24,20 +22,19 @@ Atualmente, estou especializando-me em Desenvolvimento de IA para Análise Predi
 <img align="left" alt="Matplotlib" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/8805d578-85e9-415a-ab4d-074bbd9c6315" />
 <img align="left" alt="VS Code" width="22px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/ab2a0163-19a7-474c-81bb-e4e8a1f62226" />
 <img align="left" alt="Figma" width="14px" style="padding-right:10px;" src="https://github.com/AndreNascimentoDS/AndreNascimentoDS/assets/143359685/0caee0c8-a296-4c61-b8d9-5a156c96c532" />
-
 <br>
 
 
-### Contato
-
-
+### Contribuições
 <div align="left">
-<a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=andrefng&theme=holi&utcOffset=0" height="160" />
+
 </div>
 
 
-
-
-
-
-
+### Contato
+<div align="left">
+<a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
+</div>
