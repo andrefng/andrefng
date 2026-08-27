@@ -12,7 +12,6 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 
 
 ### Linguagens e Ferramentas
-
 <img align="left" alt="Excel" width="26px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 <img align="left" alt="Power BI" width="24px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
 <img align="left" alt="PostgreSQL" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -23,9 +22,7 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 <img align="left" alt="Matplotlib" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
 <img align="left" alt="VS Code" width="22px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-
 <br>
-
 
 ### Contribuições
 <div align="left">
