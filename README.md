@@ -2,7 +2,7 @@
 
 **`Business Intelligence & Data Science | Predictive Analytics`**
 
-Sou graduado em Ciências Contábeis, com MBA em Business Intelligence e experiência na área de análise de dados aplicada ao comércio exterior, utilizando dados para apoiar decisões estratégicas e gerar insights para o negócio.
+Sou formado em Ciências Contábeis, com MBA em Business Intelligence e experiência na área de análise de dados aplicada ao comércio exterior, utilizando dados para apoiar decisões estratégicas e gerar insights para o negócio.
 
 Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
 
