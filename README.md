@@ -4,7 +4,7 @@
 
 Sou formado em Ciências Contábeis, com MBA em Business Intelligence e experiência na área de análise de dados aplicada ao comércio exterior, utilizando dados para apoiar decisões estratégicas e gerar insights para o negócio.
 
-Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela UMeSP, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
+Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universidade Metodista de São Paulo, ampliando minha formação técnica e aprofundando meus conhecimentos em análise, processamento e interpretação de dados.
 
 Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva (SCTEC), focando na implementação de algoritmos de Machine Learning (supervisionados e não supervisionados) para construir soluções preditivas e inteligentes orientadas por dados.
 
