@@ -11,7 +11,7 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 **Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA
 
 
-### Linguagens e Ferramentas
+### Linguagens e Ferramenta
 <img align="left" alt="Excel" width="26px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-excel-2019.png" />
 <img align="left" alt="Power BI" width="24px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/power-bi-2021.png" />
 <img align="left" alt="PostgreSQL" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
