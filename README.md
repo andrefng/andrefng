@@ -8,7 +8,7 @@ Recentemente concluí o Tecnólogo em Ciência de Dados e Big Data pela Universi
 
 Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva (SCTEC), focando na implementação de algoritmos de Machine Learning (supervisionados e não supervisionados) para construir soluções preditivas e inteligentes orientadas por dados.
 
-**Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • IA
+**Áreas de interesse:** Data Science • Machine Learning • Business Intelligence • Big Data • I
 
 
 ### Linguagens e Ferramentas
