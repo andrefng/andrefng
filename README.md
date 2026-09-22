@@ -24,7 +24,7 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 <img align="left" alt="Figma" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br>
 
-### Contribuiçõe
+### Contribuições
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="490" />
   &nbsp;&nbsp;
