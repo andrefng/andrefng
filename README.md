@@ -26,7 +26,7 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 
 ### Contribuições
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="490" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="1490" />
   &nbsp;&nbsp;
   
 </div>
