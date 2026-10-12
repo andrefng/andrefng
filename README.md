@@ -29,8 +29,9 @@ Agora, estou especializando-me em Desenvolvimento de IA para Análise Preditiva 
 <div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrefng&theme=holi" width="1490" />
   &nbsp;&nbsp;
+<br>
+</div>
 
 ### Contato
 <div align="left">
 <a href="https://www.linkedin.com/in/andrefng/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=andrenascimento_ds@outlook.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/andrefng" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" /></a>
-</div>
